@@ -12,3 +12,4 @@ def person(x):
 
     print(f'Yay, congrats. You have guessed the number {random_number} correctly!!')
 
+person(100)
